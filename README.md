@@ -2,7 +2,7 @@
 
 ## Wymagania
 
-Komputer z systemem windows 10+ / ubuntu 20.04+ z dostępem do internetu
+Komputer z systemem windows 10+ / ubuntu 20.04+ / Mac os 15 sequoia z dostępem do internetu
 
 ### Wymagane oprogramowanie
 1. Python 3 (rekomendowana wersja 3.14.0)
