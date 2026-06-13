@@ -29,5 +29,5 @@ Korzystając z cmd (włączane przez skrót win + r, a następnie wpisując cmd 
 ```bash
 git clone https://github.com/pacbypass/suml_s27359_s26525_s27383
 cd suml_s27359_s26525_s27383
-run.cmd
+run.bat
 ```
