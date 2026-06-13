@@ -1,0 +1,1 @@
+# Klasyfikator rasy Psa/Kota na podstawie zdjęcia
