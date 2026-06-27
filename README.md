@@ -31,3 +31,9 @@ git clone https://github.com/pacbypass/suml_s27359_s26525_s27383
 cd suml_s27359_s26525_s27383
 run.bat
 ```
+
+W przypadku wyskoczenia dialogu wymagającego uprawnień administratora, można ich odmówić. 
+
+Aplikacja będzie dostępna na lokalnej maszynie na porcie 5001.
+
+http://localhost:5001/
